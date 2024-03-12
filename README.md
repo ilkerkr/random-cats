@@ -11,6 +11,5 @@ RANDOM CATS (folder)
 |----readme.md                  
 |----index.html            
 |----js.js 
-|----magic-hat.png
-|----style.css
+|----img (folder)
 ```

@@ -1,5 +1,7 @@
 <h1>Random Cats</h1>
 
+![RandomCats gif](./img/catImages.gif)
+
 [👉click here to login Random Cats](https://ilkerkr.github.io/random-cats/)
 
 
